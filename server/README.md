@@ -11,4 +11,6 @@ npx sequelize-cli model:generate --name item --attributes name:string,harga:inte
 
 npx sequelize-cli model:generate --name transaksi --attributes name:string,alamat:string,tanggal:string,jumlah:integer,total_harga:integer,itemId:integer
 
+
+naiddd
 ```
